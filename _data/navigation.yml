@@ -1,0 +1,13 @@
+- name: Home
+  link: /
+- name: About me
+  link: /about.html
+- name: Favorites
+  link: /favs.html
+  description: Resources and tools I like
+# - name: Philosophy
+#   link: /phil.html
+#   description: Educational philosophy
+- name: About site
+  link: /site.html
+  description: Technical info about this site
